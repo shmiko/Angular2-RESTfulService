@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwahlin/Angular2-RestfulService"
+    "url": "https://github.com/shmiko/Angular2-RestfulService"
   },
   "scripts": {
     "postinstall": "npm run typings install",
