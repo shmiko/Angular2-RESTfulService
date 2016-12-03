@@ -65,7 +65,7 @@ app.post(baseUrl + 'login', api.login);
 app.post(baseUrl + 'logout', api.logout);
 
 
-// redirect all others to the index (HTML5 history)
+// redirect all others to the index (HTML5 history) ...
 app.get('*', routes.index);
 
 // Start server
