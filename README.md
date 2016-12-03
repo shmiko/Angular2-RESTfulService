@@ -59,3 +59,5 @@ Load data into MongoDB by performing the following steps:
 
 Note: To run the "production" build follow the instructions in docker-compose.production.yml. The local files are compied into
 the image with this mode so no need to have the tsc:w task running unless you're going to continue local development.
+
+Customer docker created
