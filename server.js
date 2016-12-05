@@ -22,10 +22,10 @@ app.use(bodyParser.json());
 app.use(express.static(__dirname + '/'));
 app.use(errorhandler());
 // app.use(csrf());
-
+//
 // app.use(function (req, res, next) {
 //     var csrf = req.csrfToken();
-//     res.cookie('XSRF-TOKEN', csrf);
+////     res.cookie('XSRF-TOKEN', csrf);
 //     res.locals._csrf = csrf;
 //     next();
 // })
